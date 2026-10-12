@@ -1,0 +1,461 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\source\\repos\\PAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{594C145E-F89A-467C-9EC1-B1E701EF99B7}|Mvc\\PAP.Mvc.csproj|c:\\users\\danie\\source\\repos\\pap\\mvc\\views\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{594C145E-F89A-467C-9EC1-B1E701EF99B7}|Mvc\\PAP.Mvc.csproj|solutionrelative:mvc\\views\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7CAF9B-3DF0-4C77-8B9D-4CED7D90EA88}|PAP.Repositories\\PAP.Repositories.csproj|c:\\users\\danie\\source\\repos\\pap\\pap.repositories\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4D7CAF9B-3DF0-4C77-8B9D-4CED7D90EA88}|PAP.Repositories\\PAP.Repositories.csproj|solutionrelative:pap.repositories\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594C145E-F89A-467C-9EC1-B1E701EF99B7}|Mvc\\PAP.Mvc.csproj|c:\\users\\danie\\source\\repos\\pap\\mvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{594C145E-F89A-467C-9EC1-B1E701EF99B7}|Mvc\\PAP.Mvc.csproj|solutionrelative:mvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7CAF9B-3DF0-4C77-8B9D-4CED7D90EA88}|PAP.Repositories\\PAP.Repositories.csproj|c:\\users\\danie\\source\\repos\\pap\\pap.repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7CAF9B-3DF0-4C77-8B9D-4CED7D90EA88}|PAP.Repositories\\PAP.Repositories.csproj|solutionrelative:pap.repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594C145E-F89A-467C-9EC1-B1E701EF99B7}|Mvc\\PAP.Mvc.csproj|c:\\users\\danie\\source\\repos\\pap\\mvc\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{594C145E-F89A-467C-9EC1-B1E701EF99B7}|Mvc\\PAP.Mvc.csproj|solutionrelative:mvc\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594C145E-F89A-467C-9EC1-B1E701EF99B7}|Mvc\\PAP.Mvc.csproj|c:\\users\\danie\\source\\repos\\pap\\mvc\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594C145E-F89A-467C-9EC1-B1E701EF99B7}|Mvc\\PAP.Mvc.csproj|solutionrelative:mvc\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594C145E-F89A-467C-9EC1-B1E701EF99B7}|Mvc\\PAP.Mvc.csproj|c:\\users\\danie\\source\\repos\\pap\\mvc\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{594C145E-F89A-467C-9EC1-B1E701EF99B7}|Mvc\\PAP.Mvc.csproj|solutionrelative:mvc\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595CDC15-DDD1-4CA0-9B02-FAAF2F93B602}|DataAcces\\PAP.DataAcces.csproj|c:\\users\\danie\\source\\repos\\pap\\dataacces\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{595CDC15-DDD1-4CA0-9B02-FAAF2F93B602}|DataAcces\\PAP.DataAcces.csproj|solutionrelative:dataacces\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594C145E-F89A-467C-9EC1-B1E701EF99B7}|Mvc\\PAP.Mvc.csproj|c:\\users\\danie\\source\\repos\\pap\\mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594C145E-F89A-467C-9EC1-B1E701EF99B7}|Mvc\\PAP.Mvc.csproj|solutionrelative:mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594C145E-F89A-467C-9EC1-B1E701EF99B7}|Mvc\\Mvc.csproj|C:\\Users\\danie\\source\\repos\\PAP\\mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594C145E-F89A-467C-9EC1-B1E701EF99B7}|Mvc\\Mvc.csproj|solutionrelative:mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595CDC15-DDD1-4CA0-9B02-FAAF2F93B602}|DataAcces\\PAP.DataAcces.csproj|c:\\users\\danie\\source\\repos\\pap\\dataacces\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{595CDC15-DDD1-4CA0-9B02-FAAF2F93B602}|DataAcces\\PAP.DataAcces.csproj|solutionrelative:dataacces\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595CDC15-DDD1-4CA0-9B02-FAAF2F93B602}|DataAcces\\PAP.DataAcces.csproj|C:\\Users\\danie\\source\\repos\\PAP\\dataacces\\pap.dataacces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595CDC15-DDD1-4CA0-9B02-FAAF2F93B602}|DataAcces\\PAP.DataAcces.csproj|solutionrelative:dataacces\\pap.dataacces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8334D2-977A-4AA3-B865-D39B80C4CC30}|PAP.Domain\\PAP.Buisness.csproj|C:\\Users\\danie\\source\\repos\\PAP\\pap.domain\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8334D2-977A-4AA3-B865-D39B80C4CC30}|PAP.Domain\\PAP.Buisness.csproj|solutionrelative:pap.domain\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7CAF9B-3DF0-4C77-8B9D-4CED7D90EA88}|PAP.Repositories\\PAP.Repositories.csproj|c:\\users\\danie\\source\\repos\\pap\\pap.repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7CAF9B-3DF0-4C77-8B9D-4CED7D90EA88}|PAP.Repositories\\PAP.Repositories.csproj|solutionrelative:pap.repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594C145E-F89A-467C-9EC1-B1E701EF99B7}|Mvc\\PAP.mvc.csproj|C:\\Users\\danie\\source\\repos\\PAP\\mvc\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594C145E-F89A-467C-9EC1-B1E701EF99B7}|Mvc\\PAP.mvc.csproj|solutionrelative:mvc\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595CDC15-DDD1-4CA0-9B02-FAAF2F93B602}|DataAcces\\PAP.DataAcces.csproj|c:\\users\\danie\\source\\repos\\pap\\dataacces\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595CDC15-DDD1-4CA0-9B02-FAAF2F93B602}|DataAcces\\PAP.DataAcces.csproj|solutionrelative:dataacces\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4E708A-E71D-4D57-A74F-4A9B757FCAB9}|PAP.Models\\PAP.Models.csproj|C:\\Users\\danie\\source\\repos\\PAP\\pap.models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4E708A-E71D-4D57-A74F-4A9B757FCAB9}|PAP.Models\\PAP.Models.csproj|solutionrelative:pap.models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594C145E-F89A-467C-9EC1-B1E701EF99B7}|Mvc\\PAP.mvc.csproj|C:\\Users\\danie\\source\\repos\\PAP\\mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{594C145E-F89A-467C-9EC1-B1E701EF99B7}|Mvc\\PAP.mvc.csproj|solutionrelative:mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PAP.Buisness||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594C145E-F89A-467C-9EC1-B1E701EF99B7}|Mvc\\PAP.mvc.csproj|C:\\Users\\danie\\source\\repos\\PAP\\mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{594C145E-F89A-467C-9EC1-B1E701EF99B7}|Mvc\\PAP.mvc.csproj|solutionrelative:mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4E708A-E71D-4D57-A74F-4A9B757FCAB9}|PAP.Models\\PAP.Models.csproj|C:\\Users\\danie\\source\\repos\\PAP\\pap.models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4E708A-E71D-4D57-A74F-4A9B757FCAB9}|PAP.Models\\PAP.Models.csproj|solutionrelative:pap.models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4E708A-E71D-4D57-A74F-4A9B757FCAB9}|PAP.Models\\PAP.Models.csproj|C:\\Users\\danie\\source\\repos\\PAP\\pap.models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4E708A-E71D-4D57-A74F-4A9B757FCAB9}|PAP.Models\\PAP.Models.csproj|solutionrelative:pap.models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4E708A-E71D-4D57-A74F-4A9B757FCAB9}|PAP.Models\\PAP.Models.csproj|C:\\Users\\danie\\source\\repos\\PAP\\pap.models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4E708A-E71D-4D57-A74F-4A9B757FCAB9}|PAP.Models\\PAP.Models.csproj|solutionrelative:pap.models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4E708A-E71D-4D57-A74F-4A9B757FCAB9}|PAP.Models\\PAP.Models.csproj|C:\\Users\\danie\\source\\repos\\PAP\\pap.models\\rack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4E708A-E71D-4D57-A74F-4A9B757FCAB9}|PAP.Models\\PAP.Models.csproj|solutionrelative:pap.models\\rack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4E708A-E71D-4D57-A74F-4A9B757FCAB9}|PAP.Models\\PAP.Models.csproj|C:\\Users\\danie\\source\\repos\\PAP\\pap.models\\miscelaneous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4E708A-E71D-4D57-A74F-4A9B757FCAB9}|PAP.Models\\PAP.Models.csproj|solutionrelative:pap.models\\miscelaneous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4E708A-E71D-4D57-A74F-4A9B757FCAB9}|PAP.Models\\PAP.Models.csproj|C:\\Users\\danie\\source\\repos\\PAP\\pap.models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4E708A-E71D-4D57-A74F-4A9B757FCAB9}|PAP.Models\\PAP.Models.csproj|solutionrelative:pap.models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8334D2-977A-4AA3-B865-D39B80C4CC30}|PAP.Domain\\PAP.Buisness.csproj|c:\\users\\danie\\source\\repos\\pap\\pap.domain\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\Mvc\\packages.config",
+              "RelativeDocumentMoniker": "Mvc\\packages.config",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\Mvc\\packages.config",
+              "RelativeToolTip": "Mvc\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-12T22:45:32.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\Mvc\\Web.config",
+              "RelativeDocumentMoniker": "Mvc\\Web.config",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\Mvc\\Web.config",
+              "RelativeToolTip": "Mvc\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-12T22:40:30.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.Config",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\DataAcces\\App.Config",
+              "RelativeDocumentMoniker": "DataAcces\\App.Config",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\DataAcces\\App.Config",
+              "RelativeToolTip": "DataAcces\\App.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-12T22:42:36.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PAP.DataAcces.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\DataAcces\\PAP.DataAcces.cs",
+              "RelativeDocumentMoniker": "DataAcces\\PAP.DataAcces.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\DataAcces\\PAP.DataAcces.cs",
+              "RelativeToolTip": "DataAcces\\PAP.DataAcces.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwM4DAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T20:56:47.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\DataAcces\\Model1.edmx",
+              "RelativeDocumentMoniker": "DataAcces\\Model1.edmx",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\DataAcces\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "DataAcces\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-10-11T20:45:16.086Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\Mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\Mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T00:58:15.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Repositories\\App.config",
+              "RelativeDocumentMoniker": "PAP.Repositories\\App.config",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Repositories\\App.config",
+              "RelativeToolTip": "PAP.Repositories\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-12T03:05:28.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\Mvc\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Mvc\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\Mvc\\Views\\Web.config",
+              "RelativeToolTip": "Mvc\\Views\\Web.config",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-12T03:21:50.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "PAP.Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "PAP.Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowFIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T20:51:58.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\Mvc\\Views\\Library\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mvc\\Views\\Library\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\Mvc\\Views\\Library\\Index.cshtml",
+              "RelativeToolTip": "Mvc\\Views\\Library\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T21:49:11.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\Mvc\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Mvc\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\Mvc\\Global.asax.cs",
+              "RelativeToolTip": "Mvc\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T22:45:33.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Domain\\BookManager.cs",
+              "RelativeDocumentMoniker": "PAP.Domain\\BookManager.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Domain\\BookManager.cs",
+              "RelativeToolTip": "PAP.Domain\\BookManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:28:16.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "PAP.Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Repositories\\BookRepository.cs",
+              "RelativeToolTip": "PAP.Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T02:32:18.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\Mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\Mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T20:46:53.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\Mvc\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "Mvc\\Controllers\\LibraryController.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\Mvc\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "Mvc\\Controllers\\LibraryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:40:08.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\DataAcces\\Entities\\IEntity.cs",
+              "RelativeDocumentMoniker": "DataAcces\\Entities\\IEntity.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\DataAcces\\Entities\\IEntity.cs",
+              "RelativeToolTip": "DataAcces\\Entities\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T20:55:02.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Models\\Book.cs",
+              "RelativeDocumentMoniker": "PAP.Models\\Book.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Models\\Book.cs",
+              "RelativeToolTip": "PAP.Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T20:58:19.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Models\\Role.cs",
+              "RelativeDocumentMoniker": "PAP.Models\\Role.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Models\\Role.cs",
+              "RelativeToolTip": "PAP.Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:01:03.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\Mvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\Mvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Mvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T21:41:01.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PAP.Buisness",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Domain\\PAP.Buisness.csproj",
+              "RelativeDocumentMoniker": "PAP.Domain\\PAP.Buisness.csproj",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Domain\\PAP.Buisness.csproj",
+              "RelativeToolTip": "PAP.Domain\\PAP.Buisness.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-11T20:58:12.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Models\\Employee.cs",
+              "RelativeDocumentMoniker": "PAP.Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Models\\Employee.cs",
+              "RelativeToolTip": "PAP.Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:00:31.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T21:42:26.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Models\\Entity.cs",
+              "RelativeDocumentMoniker": "PAP.Models\\Entity.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Models\\Entity.cs",
+              "RelativeToolTip": "PAP.Models\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:05:51.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Rack.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Models\\Rack.cs",
+              "RelativeDocumentMoniker": "PAP.Models\\Rack.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Models\\Rack.cs",
+              "RelativeToolTip": "PAP.Models\\Rack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:01:16.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Miscelaneous.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Models\\Miscelaneous.cs",
+              "RelativeDocumentMoniker": "PAP.Models\\Miscelaneous.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Models\\Miscelaneous.cs",
+              "RelativeToolTip": "PAP.Models\\Miscelaneous.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:01:52.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Models\\Users.cs",
+              "RelativeDocumentMoniker": "PAP.Models\\Users.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\PAP\\PAP.Models\\Users.cs",
+              "RelativeToolTip": "PAP.Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:00:44.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

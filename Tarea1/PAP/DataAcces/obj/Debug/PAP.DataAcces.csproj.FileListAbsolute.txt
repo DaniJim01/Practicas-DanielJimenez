@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\PAP\DataAcces\bin\Debug\PAP.Models.dll
+C:\Users\danie\source\repos\PAP\DataAcces\bin\Debug\PAP.Models.pdb
+C:\Users\danie\source\repos\PAP\DataAcces\obj\Debug\PAP.DataAcces.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\PAP\DataAcces\obj\Debug\PAP.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\PAP\DataAcces\obj\Debug\PAP.Data.59E9A2A8.Up2Date
+C:\Users\danie\source\repos\PAP\DataAcces\bin\Debug\PAP.DataAccess.dll.config
+C:\Users\danie\source\repos\PAP\DataAcces\bin\Debug\PAP.DataAccess.dll
+C:\Users\danie\source\repos\PAP\DataAcces\bin\Debug\PAP.DataAccess.pdb
+C:\Users\danie\source\repos\PAP\DataAcces\bin\Debug\EntityFramework.dll
+C:\Users\danie\source\repos\PAP\DataAcces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danie\source\repos\PAP\DataAcces\bin\Debug\EntityFramework.xml
+C:\Users\danie\source\repos\PAP\DataAcces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danie\source\repos\PAP\DataAcces\obj\Debug\PAP.DataAccess.dll
+C:\Users\danie\source\repos\PAP\DataAcces\obj\Debug\PAP.DataAccess.pdb

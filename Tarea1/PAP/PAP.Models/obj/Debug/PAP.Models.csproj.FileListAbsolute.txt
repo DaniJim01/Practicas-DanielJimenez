@@ -1,0 +1,6 @@
+C:\Users\danie\source\repos\PAP\PAP.Models\bin\Debug\PAP.Models.dll
+C:\Users\danie\source\repos\PAP\PAP.Models\bin\Debug\PAP.Models.pdb
+C:\Users\danie\source\repos\PAP\PAP.Models\obj\Debug\PAP.Models.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\PAP\PAP.Models\obj\Debug\PAP.Models.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\PAP\PAP.Models\obj\Debug\PAP.Models.dll
+C:\Users\danie\source\repos\PAP\PAP.Models\obj\Debug\PAP.Models.pdb

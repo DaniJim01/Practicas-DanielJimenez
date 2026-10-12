@@ -1,0 +1,6 @@
+C:\Users\danie\source\repos\PAP\PAP.initial\bin\Debug\PAP.initial.dll
+C:\Users\danie\source\repos\PAP\PAP.initial\bin\Debug\PAP.initial.pdb
+C:\Users\danie\source\repos\PAP\PAP.initial\obj\Debug\PAP.initial.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\PAP\PAP.initial\obj\Debug\PAP.initial.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\PAP\PAP.initial\obj\Debug\PAP.initial.dll
+C:\Users\danie\source\repos\PAP\PAP.initial\obj\Debug\PAP.initial.pdb

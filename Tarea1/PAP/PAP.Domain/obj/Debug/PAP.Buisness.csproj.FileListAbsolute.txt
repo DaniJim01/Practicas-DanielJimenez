@@ -1,0 +1,17 @@
+C:\Users\danie\source\repos\PAP\PAP.Domain\bin\Debug\PAP.Domain.dll
+C:\Users\danie\source\repos\PAP\PAP.Domain\bin\Debug\PAP.Domain.pdb
+C:\Users\danie\source\repos\PAP\PAP.Domain\bin\Debug\PAP.Models.dll
+C:\Users\danie\source\repos\PAP\PAP.Domain\bin\Debug\PAP.Models.pdb
+C:\Users\danie\source\repos\PAP\PAP.Domain\obj\Debug\PAP.Buisness.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\PAP\PAP.Domain\obj\Debug\PAP.Buisness.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\PAP\PAP.Domain\obj\Debug\PAP.Buis.7FDB00B3.Up2Date
+C:\Users\danie\source\repos\PAP\PAP.Domain\obj\Debug\PAP.Domain.dll
+C:\Users\danie\source\repos\PAP\PAP.Domain\obj\Debug\PAP.Domain.pdb
+C:\Users\danie\source\repos\PAP\PAP.Domain\bin\Debug\PAP.DataAccess.dll
+C:\Users\danie\source\repos\PAP\PAP.Domain\bin\Debug\PAP.Repositories.dll
+C:\Users\danie\source\repos\PAP\PAP.Domain\bin\Debug\EntityFramework.dll
+C:\Users\danie\source\repos\PAP\PAP.Domain\bin\Debug\PAP.DataAccess.pdb
+C:\Users\danie\source\repos\PAP\PAP.Domain\bin\Debug\PAP.DataAccess.dll.config
+C:\Users\danie\source\repos\PAP\PAP.Domain\bin\Debug\PAP.Repositories.pdb
+C:\Users\danie\source\repos\PAP\PAP.Domain\bin\Debug\PAP.Repositories.dll.config
+C:\Users\danie\source\repos\PAP\PAP.Domain\bin\Debug\EntityFramework.xml
